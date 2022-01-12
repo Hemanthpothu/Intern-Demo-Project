@@ -1,0 +1,126 @@
+.container
+{
+    border: 2px solid rgb(252, 252, 252);
+    width: 1236px;
+    height: 1200px;
+    /* background-color:#18a0fb; */
+    /* position: sticky; */
+    /* margin-bottom: 100px; */
+}
+.hem img
+{
+    width: 2px;
+    height: 2px;
+}
+.container3
+{
+    /* display: flex; */
+    padding-left: 400px;
+    /* width: 1000px;
+    height: 5000px; */
+    /* margin-left: 30px;
+    padding-top: 20px;
+    padding-left: 350px; */
+}
+_header--headerContainerInner--1Psme {
+    height: 100px;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 48px;
+    background-color: #fff;
+    box-sizing: border-box;
+    width: 100%;
+    display: flex;
+}
+#hema11
+{
+    display: flex;
+}
+#hema10
+{
+    margin-left: 700px;
+}
+#hema9
+{
+    /* margin-left: 30px; */
+    /* padding-top: 60px; */
+    /* margin-bottom: 100px; */
+    /* padding-bottom: 500px; */
+    padding-left: 350px;
+    display: inline-block;
+    /* margin-top: 100px; */
+}
+#hema8
+{
+    /* padding-top: 20px; */
+    /* padding-left: 850px; */
+    margin-bottom: 200px;
+    margin-left: 1000px;
+    margin-bottom: 100px;
+    /* padding-bottom: 100px; */
+    /* margin-left: 800px;
+    padding-bottom: 40px; */
+    /* margin-top: 100px; */
+    /* padding-top: 100px; */
+}
+figure
+{
+    margin-left: 170px;
+}
+.container3
+{
+    /* border: 2px solid red; */
+    width: 100%;
+    height: 100px;
+    background-color: #fff;
+}
+.container1
+{
+    width: 50%;
+    /* height: 500px; */
+    background-color: rgb(41, 78, 110);
+}
+#hema
+{
+    font-weight: 20px;
+    font-family: Whyte,sans-serif;
+    font-style: bold;
+}
+#hema1
+{
+    width: 80px;
+    height: 60px;
+}
+#hema5 
+{
+    margin-right: 20px;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+#hema6
+{
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+#hema6 :hover
+{
+    color: blue;
+}
+#hema4
+{
+    margin-top: 10px;
+}
+#hema2
+{
+    margin-left: 560px;
+}
+#hema7
+{
+    margin-left: 300px;
+    margin-top: 40px;
+}
+.container2
+{
+    width: 300px;
+    height: 30px;
+}
